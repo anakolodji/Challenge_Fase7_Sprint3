@@ -12,7 +12,7 @@
     Sprint 3: Análise Estatística de Produtividade Agrícola com Base Histórica Integrada
 
 ## Nome do grupo  
-    TerraFusion Tech - Sistema de Automação de Plantações
+    TerraFusion Tech 
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/ana-kolodji-94ba66324/">Ana Kolodji</a>
