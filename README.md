@@ -8,7 +8,7 @@
 
 <br>
 
-# Challenge - FASE 6  
+# Challenge - FASE 7  
     Sprint 3: Análise Estatística de Produtividade Agrícola com Base Histórica Integrada
 
 ## Nome do grupo  
@@ -90,7 +90,7 @@ Nesta etapa, o foco foi a análise estatística dos dados históricos integrados
 
 ## Como Executar
 
-1. Abra o notebook `Notebook_Sprint3_Agricultura.ipynb` no Google Colab ou Jupyter.  
+1. Abra o notebook `sprint3.ipynb` no Google Colab ou Jupyter.  
 2. Faça upload dos arquivos `NDVI_EVI.csv` e `produtividade_conab.csv`.  
 3. Execute as células do notebook em ordem.  
 4. Os gráficos e análises estatísticas serão gerados automaticamente.
